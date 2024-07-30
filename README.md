@@ -1,11 +1,6 @@
-<p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="100"/>
-</p>
-<br>
-
 ### Hi there 👋 I'm a DevOps engineer
 
-- 🔭 I’m working with Docker, Kubernetes, Helm, Nodejs, Nuxtjs, Jest, PHP, Symfony,...
+- 🔭 I’m working with Docker, PHP, Symfony,...
 - 🌱 I was working as a Full-stack developer and was testing APIs using Python and CI/CD(for automation), Docker, ....
 - ⚡  I can tell you a fun fact: I'm still learning, so I can't really help, but don't be afraid to ask we will find out together
 - 😊 I have a site under construction perhaps useful ? 👉 <a href="https://soowcode.github.io/"> have a look here</a>  
@@ -54,6 +49,6 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowousmane&theme=default)
-[](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sowousmane&theme=default) [![Ousmane's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowousmane&theme=algolia)](https://github.com/sowousmane/github-readme-stats) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toiwilou&theme=default)
+[](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toiwilou&theme=default) [![Toiwilou's GitHub stats](https://github-readme-stats.vercel.app/api?username=toiwilou&theme=algolia)](https://github.com/toiwilou/github-readme-stats) 
 
